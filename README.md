@@ -1,3 +1,3 @@
 # Beard Player Controls Scripts
 
-The player controls and interaction scripts for Beard
+The Unity3d C# player controls and interaction scripts for Beard
